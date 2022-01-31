@@ -8,5 +8,7 @@ int main()
         cout<<"The division of a and b is "<<a/b;
         cout<<"The multiplication of a and b is "<<a*b;
         cout<<"Sum of a and b is "<<a+b;
+        cout<<"end";
+
     return 0;
 }
